@@ -1,0 +1,5 @@
+{
+    "require": {
+       "phpoffice/phppowerpoint": "dev-master"
+    }
+}
