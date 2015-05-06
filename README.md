@@ -1,4 +1,4 @@
-# PHPPowerPoint Library for Joomla! [![Project Status](https://stillmaintained.com/vdespa/PHPPowerPoint-Joomla-Library.png)]
+# PHPPowerPoint Library for Joomla!
 
 **PHPExcel Library for Joomla! 2.5.x &amp; 3.x**
 
@@ -7,7 +7,7 @@ If you already know how to use PHPPowerPoint and you need it for a Joomla! proje
 Download
 --------
 
-[![Download now](https://raw.github.com/vdespa/PHPExcel-Joomla-Library/master/download.png)](https://bitbucket.org/vdespa/phpexcel-joomla-library/downloads/PHPExcel-Joomla-Library-1.8.0.zip)
+[![Download now](https://raw.github.com/vdespa/PHPPowerPoint-Joomla-Library/master/download.png)](https://github.com/vdespa/PHPPowerPoint-Joomla-Library/archive/0.3.0.201505006.zip)
 
 Version
 -------
