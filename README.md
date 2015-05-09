@@ -1,6 +1,6 @@
 # PHPPowerPoint Library for Joomla!
 
-**PHPExcel Library for Joomla! 2.5.x &amp; 3.x**
+**PHPPowerPoint Library for Joomla! 2.5.x &amp; 3.x**
 
 If you already know how to use PHPPowerPoint and you need it for a Joomla! project, than this is a package to be used in Joomla!
 
@@ -27,7 +27,7 @@ or
 
 Now you can create a new PHPPowerPoint document:
 
-    $objPHPPowerPoint = new PhpPowerpoint();
+    $objPHPPowerPoint = new PhpOffice\PhpPowerpoint\PhpPowerpoint();
 
 
 
