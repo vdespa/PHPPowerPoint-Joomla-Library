@@ -7,12 +7,12 @@ If you already know how to use PHPPowerPoint and you need it for a Joomla! proje
 Download
 --------
 
-[![Download now](https://raw.github.com/vdespa/PHPPowerPoint-Joomla-Library/master/download.png)](https://github.com/vdespa/PHPPowerPoint-Joomla-Library/archive/0.3.0.201505006.zip)
+[![Download now](https://raw.github.com/vdespa/PHPPowerPoint-Joomla-Library/master/download.png)](https://bitbucket.org/vdespa/phppowerpoint-joomla-library/downloads/PHPPowerPoint-Joomla-Library-0.3.0.20150506.zip)
 
 Version
 -------
 
-* The current Joomla! Library is using PHPPowerPoint 0.2.0 (July 2014)
+* The current Joomla! Library is using PHPPowerPoint, commit 01611e55ca54dbdc3dbfab95caa564d4847bb58c (Sep 24, 2014)
 
 Usage
 -----
